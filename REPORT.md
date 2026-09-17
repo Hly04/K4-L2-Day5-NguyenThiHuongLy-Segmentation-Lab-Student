@@ -4,7 +4,8 @@
 
 - Mã học viên theo lớp: 2A202602068
 - Ngày / CVAT local: 17/09/2026 / CVAT local
-- Công cụ đã dùng: CVAT Polygon và gợi ý tự động; export COCO 1.0 và Segmentation mask 1.1; công cụ kiểm cấu trúc ZIP của repo; scorer cục bộ cho ba tier
+- Công cụ đã dùng: CVAT Polygon và gợi ý tự động; export COCO 1.0 và Segmentation mask 1.1; ONEFORMER
+
 
 Mã học viên là mã lớp cấp; không cần ghi họ tên trong report nếu kênh VLearn đã nhận diện bạn. Chỉ ghi công cụ thật sự đã dùng; không có SAM vẫn làm bài bình thường.
 
